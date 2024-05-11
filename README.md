@@ -12,4 +12,4 @@
 
 📫 Feel free to reach out to me via [Email](st.coder2005@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/toxir-saidazimov/).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaidazimovToxir&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaidazimovToxir&show_icons=true&theme=transparent)
