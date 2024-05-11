@@ -14,12 +14,12 @@
 
 
 # 💻 Tech Stack
-![Flutter Developer](https://img.shields.io/badge/Flutter-Developer-white?logo=flutter&logoColor=blue&style=for-the-badge)
-![Dart](https://img.shields.io/badge/Dart-Developer-blue?logo=dart&logoColor=blue&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-Developer-white?logo=mysql&logoColor=blue&style=for-the-badge)
-![C](https://img.shields.io/badge/C-Developer-blue?logo=c&logoColor=blue&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Developer-blue?logo=python&logoColor=yellow&style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-Developer-blue?logo=gnu-bash&logoColor=white&style=for-the-badge)
+![Flutter Developer](https://img.shields.io/badge/Flutter-%231572B6.svg?logo=flutter&logoColor=white&style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-%231572B6.svg?logo=dart&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-grey?logo=mysql&logoColor=blue&style=for-the-badge)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
+![Bash](https://img.shields.io/badge/Bash-grey?logo=gnu-bash&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram&logoColor=blue&style=for-the-badge)
 
 
