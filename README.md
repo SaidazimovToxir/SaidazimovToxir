@@ -10,6 +10,6 @@
 
 🤝 Open to collaboration opportunities and contributing to open-source Flutter projects. Let's create some beautifully crafted apps together!
 
-📫 Feel free to reach out to me via [Email](st.coder2005@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/toxir-saidazimov/).
+📫 Feel free to reach out to me via [Email](st.coder2005@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/toxir-saidazimov/) or [Telegram](https://t.me/Tox_Uzb).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaidazimovToxir&show_icons=true&theme=transparent)
