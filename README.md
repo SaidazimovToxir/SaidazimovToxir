@@ -26,3 +26,6 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SaidazimovToxir&show_icons=true&theme=transparent)</br>
+
+# 📊 Wakatime Stats
+[![Tohir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tohir&layout=compact&theme=react)](https://wakatime.com/@tohir)
