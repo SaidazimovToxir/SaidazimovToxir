@@ -1,16 +1,13 @@
-# 👋 Hey there! I'm Tohir, a Flutter Developer 🚀
+# Flutter & Smart TV Developer | Cross-Platform Specialist
 
-📱 Mobile App Developer | Flutter Enthusiast | UI/UX Designer 💻
+Results-driven mobile & Smart TV developer with expertise in Flutter, Android TV, Apple TV, and LG webOS. Passionate about building production-ready apps across mobile, web, and TV platforms.
 
-🎓 With a background in Computer Science, I specialize in building cross-platform mobile applications using Flutter, Google's UI toolkit for crafting natively compiled applications for mobile, web, and desktop from a single codebase.
+💡 Specializing in video streaming, payment integration & complex API implementations
+🏥 Experience in healthcare, fintech, e-learning & media streaming domains
+🧩 250+ LeetCode solutions | Strong problem-solving mindset
+🤝 Open to collaboration on innovative Flutter & cross-platform projects
 
-🌱 Always exploring new libraries, tools, and techniques to enhance my Flutter skills and deliver polished, high-quality applications.
-
-💡 Passionate about creating sleek and intuitive user interfaces that provide delightful user experiences.
-
-🤝 Open to collaboration opportunities and contributing to open-source Flutter projects. Let's create some beautifully crafted apps together!
-
-📫 Feel free to reach out to me via [Email](st.coder2005@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/toxir-saidazimov/) or [Telegram](https://t.me/Tox_Uzb).
+📫 Feel free to reach out to me via [Email](saidazimov.uz@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/toxir-saidazimov/) or [Telegram](https://t.me/saidazimov_uz).
 
 
 # 💻 Tech Stack
