@@ -21,11 +21,3 @@
 ![Bash](https://img.shields.io/badge/Bash-grey?logo=gnu-bash&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram&logoColor=blue&style=for-the-badge)
-
-
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SaidazimovToxir&show_icons=true&theme=transparent)</br>
-
-# 📊 Wakatime Stats
-[![Tohir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tohir&layout=compact&theme=react)](https://wakatime.com/@tohir)
